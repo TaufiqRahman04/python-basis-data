@@ -14,10 +14,6 @@ my_dict = {
     "no_tlp": 4760
     }
 
-my_dict['nama'] = 'Najema'
-my_dict['gender'] = 'P'
-my_dict['is_playing_valorant'] = True
-
 print(my_dict)
 
 

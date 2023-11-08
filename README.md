@@ -2,4 +2,4 @@
 Tugas
 
 repositories ini dibuat untuk memenuhi tugas praktikum dari matakuliah
-aplikasi dan basis data.
+aplikasi dan basis data
