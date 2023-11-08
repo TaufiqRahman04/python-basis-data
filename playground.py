@@ -4,7 +4,7 @@ my_tuple = (1,'polban',3.14)
 
 my_list = [1,2,3,'string']
 
-my_list[-1] = 'gehel'
+my_list[-1] = 'Update'
 
 #print(my_list[-1])
 
